@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1475590525 source:c:\users\tactfactory\documents\tactfactory\cour\imie\couritstart\langagec\src\tp\langagec\project1\main.c
+1475855723 source:c:\users\tactfactory\documents\tactfactory\cour\imie\couritstart\langagec\src\tp\langagec\project1\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<math.h>
+	<windows.h>
 
